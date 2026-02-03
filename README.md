@@ -116,7 +116,7 @@ The rAGG system enables users to animate any character by uploading a source ima
 ### Interactive-Story AGG
 The core appeal of sAGG lies in the dynamic story evolution within a specific framework and the player's ability to steer the story or completely shatter the setting. For instance, players can freely `alter the course of history`, or `combine characters, backgrounds, and items from different cultures, themes, and even dimensions`. The system strives to develop the narrative around the core theme and ensure it eventually converges to a finale. This experience is accompanied by exquisite scene images and character portraits that change in real time during gameplay.
 
-sAGG的核心乐趣在于在指定故事框架下的剧情自行演绎发展，以及玩家具备调整故事发展方向乃至彻底打破故事背景的能力。譬如我们可以在sAGG中肆意更改历史走向，感受蝴蝶效应的魅力。也可以随意缝合不同文化、题材乃至不同次元的人物、背景和物品等。
+sAGG的核心乐趣在于在指定故事框架下的剧情自行演绎发展，以及玩家具备调整故事发展方向乃至彻底打破故事背景的能力。譬如我们可以在sAGG中肆意更改历史走向，感受蝴蝶效应的魅力。也可以随意缝合不同文化、题材乃至不同次元的人物、背景和物品等。sAGG能够尽其所能，围绕故事主题进行剧情发展和最终收敛结局。整个游戏还会有精美的场景图片以及人物立绘，配合对话过程实时变化呈现。
 
 <table width="100%">
 <tr>
@@ -131,7 +131,7 @@ sAGG的核心乐趣在于在指定故事框架下的剧情自行演绎发展，�
 
 ## &#x1F5BC; Gallery
 
-Selected screenshots from the current stage of the AGG project.
+The Gallery showcases gameplay screenshots from the current stage of the AGG project. While frontend designs vary slightly across titles, most support both Light and Dark themes as well as window resizing indicators. Currently, all games run locally in single-device mode, with future updates planned to introduce online synchronous and asynchronous interactions.
 
 <!-- Gallery Table: Responsive & Fixed Aspect Ratio -->
 <table width="100%">
