@@ -40,13 +40,12 @@
 
 ---
 
-**AGG (AI-Generated Gameverse)** is an AI-native foundation for game creation and play, unifying researchers, developers, and players into one evolving system.
+**AGG (AI-Generated Gameverse)** is an AI-native game foundation for creation and play. 
 
-We believe the essence of gaming is interaction and entertainment. Guided by the principle that playability precedes visual fidelity, our project aims to build a coherent paradigm for AI-centered games. We introduce AGG as a new class of games that currently includes:
+We envision a unified system and a community where researchers, developers, and players evolve together. We prioritize deep playability over visual fidelity to build a coherent framework for AI-centered games. AGG introduces a new class of experiences that currently includes:
 *   **pAGG (Physics-Driven):** Strict physical requirements & constraints (e.g., billiards).
 *   **rAGG (Reaction):** Real-time responsiveness & player reaction (e.g., rhythm/dance games).
 *   **sAGG (Interactive-Story):** Story experience & AI-guided co-creation.
-
 
 <!-- <img width="1062" height="607" alt="68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f4f31434e3031595a6234584b32334b39334577595842445f2121363030303030303030373233362d322d7470732d313036322d3630372e706e67" src="https://github.com/user-attachments/assets/36e7ff64-5efa-429f-b453-514ed604f480" />
 <img width="5481" height="3241" alt="68747470733a2f2f696d672e616c6963646e2e636f6d2f696d6765787472612f69322f4f31434e30314c386b3572463172474548424c545534675f2121363030303030303030353630332d322d7470732d353438312d333234312e706e67" src="https://github.com/user-attachments/assets/be3df081-a071-4f70-89e0-81b50123c955" />
