@@ -24,14 +24,14 @@
     <strong>Yujun Shen</strong>
     <br>
     <br>
+    <a href='https://lucaria-academy.github.io/AGG'><img src='https://img.shields.io/badge/Project_Page-AGG-blue' alt='Project Page'></a>
     <a href=""><img src='https://img.shields.io/badge/arXiv-Paper-b31b1b' alt='arXiv'></a>
     <a href="./AGG_Technical_Report.pdf"><img src='https://img.shields.io/badge/PDF-Technical%20Report-red' alt='Technical Report'></a>
-    <a href=""><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow' alt='HuggingFace'></a>
-    <a href=""><img src='https://img.shields.io/badge/Play-Online-success' alt='Play Online'></a>
+    <a href='mailto:gongbiao.gb@antgroup.com'><img src='https://img.shields.io/badge/Contact-Mail-yellow' alt='Contact'></a>
     <br>
     <a href="https://github.com/ant-research/AGG"><img src='https://img.shields.io/badge/GitHub-AGG-black?logo=github' alt='GitHub'></a>
-    <a href='https://lucaria-academy.github.io/AGG'><img src='https://img.shields.io/badge/Project_Page-AGG-blue' alt='Project Page'></a>
-    <a href='mailto:gongbiao.gb@antgroup.com'><img src='https://img.shields.io/badge/Contact-Mail-yellow' alt='Contact'></a>
+    <a href=""><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow' alt='HuggingFace'></a>
+    <a href=""><img src='https://img.shields.io/badge/Play-Online-success' alt='Play Online'></a>
     <br>
     <b>Ant Group </b>
     <br>
