@@ -29,9 +29,9 @@
     <a href="./AGG_Technical_Report.pdf"><img src='https://img.shields.io/badge/PDF-Technical%20Report-red' alt='Technical Report'></a>
     <a href='mailto:gongbiao.gb@antgroup.com'><img src='https://img.shields.io/badge/Contact-Mail-yellow' alt='Contact'></a>
     <br>
-    <a href="https://github.com/ant-research/AGG"><img src='https://img.shields.io/badge/GitHub-AGG-black?logo=github' alt='GitHub'></a>
-    <a href=""><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow' alt='HuggingFace'></a>
-    <a href=""><img src='https://img.shields.io/badge/Play-Online-success' alt='Play Online'></a>
+    <a href="https://github.com/ant-research/AGG"><img src='https://img.shields.io/badge/GitHub-AGG [TBD]-black?logo=github' alt='GitHub'></a>
+    <!-- <a href=""><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Models-yellow' alt='HuggingFace'></a> -->
+    <a href=""><img src='https://img.shields.io/badge/Play-Online [TBD]-success' alt='Play Online'></a>
     <br>
     <b>Ant Group </b>
     <br>
